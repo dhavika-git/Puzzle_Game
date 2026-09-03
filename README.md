@@ -22,3 +22,12 @@ A simple Python-based fruit guessing game where the player gets 3 attempts to gu
 
 ```bash
 python Script.py
+
+## Example
+
+First letter: a
+Last letter: e
+Total char = 5
+
+Enter the fruit name: apply
+Hint: appl-
